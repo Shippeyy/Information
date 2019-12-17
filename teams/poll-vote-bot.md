@@ -20,4 +20,6 @@ A [WebOfNeeds](https://github.com/researchstudio-sat/webofneeds)-Bot which allow
 * The provided atoms use the functionality of the [PollCreatorBot](https://github.com/WoN-Hackathon-2019/won-pollcreaterbot) which allows users to create polls.
 
 # Issues raised
-Found a bug and raised an [issue](https://github.com/researchstudio-sat/webofneeds/issues/3174)
+Found bugs and raised issues
+* [issue](https://github.com/researchstudio-sat/webofneeds/issues/3174)
+* [issue](https://github.com/researchstudio-sat/webofneeds/issues/3178)
